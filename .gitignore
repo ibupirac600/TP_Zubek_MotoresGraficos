@@ -1,0 +1,42 @@
+# Carpetas que Unity genera solo (no se suben)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Varios
+*.apk
+*.aab
+*.unitypackage
+crashlytics-build.properties
+sysinfo.txt
+.DS_Store
+Thumbs.db
+
+# Repo vacio creado por error
+/TP MOTORES GRAFICOS ZUBEK/
